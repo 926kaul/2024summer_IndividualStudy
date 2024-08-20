@@ -1,0 +1,7 @@
+copycat url 관찰 => copycat 더 찾기, motivation 알아내기 (web traffic)
+
+url 중심으로 instruction 분석
+
+monitoring (devloper가 update 하는거 알 수 있을지, 혹은 그냥 crawling)
+
+token leakage가 가능한지 해보기 (어떤 상황과 가정이던지)

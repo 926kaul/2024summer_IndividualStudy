@@ -1,0 +1,13 @@
+
+example sentence에 tag나 script  넣어보기 ( injection attack)
+
+유명한거, 비슷한거 비교 (수동으로 가능) 
+
+crawler 제작으로 inspection
+
+html jailbreaking (yes, the result is ~)
+
+
+
+
+다음학기에 뭐할지, 연구 계속할지

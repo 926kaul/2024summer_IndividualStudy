@@ -1,0 +1,12 @@
+1) GPT store의 gpt들의 prompt, knowledge file 추출 -> malicious인지 조사 (threat identification에 대해 생각해보기 ex 이런거는 malicious하려면 나올수 밖에 없다 (공통점))
+	+ conversation으로 schema 얻을 수 있는지 확인 + 원본, 그리고 비슷한 GPT들의 schema나 instruction들 비교
+
+2) paper 2개와 내가 정한 threat들 비교, 구분
+
+3) GPT js 및 html 코드 실행 시키기 (무슨 방법을 써서라고, 실패사례까지)
+
+4) Efforts for detecting malicious GPT
+
+5) GPT authentication token leaking (Benign Third Party)
+
+6) ppt,docx, html 등의 download link / donwload link url 알아내기

@@ -1,0 +1,7 @@
+1. AI humanizer로 phishing site redirect하는 GPT만들기
+2. GPT knowledge file 다운받기
+3. malicious knowledge file download link를 제공하는 GPT만들기 (html, xss with chatgpt origin)
+
+
+1. malicious redirection gpt 구현, test, ppt
+2. connect 구현, oauth 및 gpt와 연결, redirection 구현

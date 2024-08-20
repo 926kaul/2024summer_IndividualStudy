@@ -1,0 +1,25 @@
+수, 월, 화 :
+1. url 제대로 추출
+2. instruction similarity 
+3. url final destination 조사 / url 역할 수동 조사
+4. instruction 수동 조사 (keyword 도움)
+
+
+grouping top100 추출 / 18:00 시작
+
+
+
+
+instruction similarity -> 자동화 및 통계  ====> cosine simularity가 0.6이상이면 볼 필요가 있음 => 20개 수동 분석
+instruction 수동 조사 (keyword 도움)
+
+
+
+
+
+url final destination 조사 / url 역할 수동 조사 (top100, 화)
+
+
+20개 similar gpt inst 수동 분석
+suspective url gpt inst 수동 분석
+(화) keyword 중심의 gpt inst 수동 분석

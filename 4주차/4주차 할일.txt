@@ -1,0 +1,6 @@
+
+1. Efforts for detecting malicious GPT
+
+2. GPT store의 gpt들의 prompt, knowledge file 추출 -> malicious인지 조사 (threat identification에 대해 생각해보기 ex 이런거는 malicious하려면 나올수 밖에 없다 (공통점))
+
+3. conversation으로 schema 얻을 수 있는지 확인 + 원본, 그리고 비슷한 GPT들의 schema나 instruction들 비교

@@ -1,0 +1,26 @@
+ 1. 다양한 attacker 가능성에 대해 정리, 실제 case는 없었는지, 언급된 곳은 없는지 - 따로 ppt 만들어서 정리하기
+
+attacker가 GPT의 취약점을 활용하는 경우
+1) secret 탈취
+2) other user에 영향을 미침
+3) auth 악용하기
+4) 또 다른 attack 방법 알아보기                                                                                                       
+
+malicious GPT
+1) Phishing
+2) authorization 연동으로 third party에서 user 정보 가져오기
+3) Trojan : 특정 command에만 malicious하게 반응 (ex 7/23에는 롯데호텔만 비어있는 걸로)
+
+
+
+
+
+2. GPT는 container를 상식적으로는 공유하고, 추가적 virtualizaition을 하는 것으로 보인다
+sandbox escaping으로 ../mnt/.. 와 같은 상대적 directory로 접근해보자                        ---> /mnt/data 이외에도 다양한 경로에 접근 가능, shared memory는 못 찾음
+
+
+
+
+3. GPT가 js, html을 실행하는지 결과와 origin은 어떻게 되는지(console.log, document.location, window.location) => chat gpt를 통해 input을 넣고 js가 실행되는지
+
+4. phishing, malicious GPT를 잡으려는 노력에 대해 조사

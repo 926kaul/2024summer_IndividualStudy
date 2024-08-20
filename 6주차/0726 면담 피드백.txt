@@ -1,0 +1,30 @@
+Grimoire+ 의도 분석
+website traffic을 올리려는 건지 (돈 받고 하는거면 link가 바뀌는지)
+html code나 link 연결이 안되는건 CSP policy update 때문인지
+왜 이렇게 하는지
+
+Popularity를 중심으로 분석하는 게 맞음
+malicious에 너무 focus 하지 말고 이상한짓 하고 있는게 있는지
+
+1) popular GPT를 original로
+2) simular GPT names Top 3~5 (original name을 include 한 걸로)
+3) 해당 group 끼리 분석
+ - original link와 similar GPT의 link 비교
+ - instruction에 포함된 link 비교
+ - knowledg file 비교
+ - action 목적지 비교
+4) table 만들기
+
+
+android malicious behavior
+- send info, ad 
+- ads injection
+- call redirection (Phishing) / fake info
+- inapprepriate image/video
+
+
+
+
+
++) link 뒤에 붙어있는 거 까지 공표하는지 (publisher가 이걸보고 advertiser에게 돈 지급)
+ conversation 내용을 link에 더해서 send가 가능한지

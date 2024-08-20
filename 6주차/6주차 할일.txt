@@ -1,0 +1,14 @@
+
+월 : link + conversation 시도 -> link + conversation 제공 가능, link 뒷부분도 제공됨 (traffic reward possible)
+opti
+
+화 : 
+top100 table 만들기 (original, similar, url과 유사도), result 분석 : developer url과 실제 url 비교
+
+ppt 제작
+
+
+
+
+
+instruction에 대한 similarity를 통계내어 유사도에 의미 부여

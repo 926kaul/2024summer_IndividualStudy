@@ -1,0 +1,23 @@
+목 : token leakage gpt 만들기
+
+1. google calendar requset 후 같은 
+=> ) google calendar의 response를 payload에 전송 / 일종의 conversation leakage
+	=>) access token을 app.gptinf에 전송하도록 해야함
+	    1. app.gptinf에 똑같이 request하게 하기
+	    2. app.gptinf의 payload로 이전 request의 access token 보내게 하기
+	    3. directory 어딘가의 accces token를 python으로 찾아 url 뒤에 붙이거나 payload로 보내기
+
+?) 2연속 action에서 app.gptinf.com에 대한 allow는 안 물어봄
+
+
+
+월,화 : url 중심 instruction 분석, ppt 만들기
+
+
+
+
+
+
+
+매일 퇴근시 : crawling activate (monitoring) x
+

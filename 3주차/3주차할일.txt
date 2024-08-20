@@ -1,0 +1,20 @@
+3주차 할일 
+
+
+GPT javascript execution and origin check
+
+https://velog.io/@rokwon_k/Web-CORS
+
+Phishing, malicious GPT 잡으려는 노력 조사(화)
+https://ieeexplore.ieee.org/abstract/document/9581257
+https://openreview.net/forum?id=tGvWCD9BEP
+https://ieeexplore.ieee.org/abstract/document/10288940
+https://ieeexplore.ieee.org/abstract/document/10190709
+
+xss marks the spot(화)
+
+
+
+
+
+

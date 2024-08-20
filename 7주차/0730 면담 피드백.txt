@@ -1,0 +1,4 @@
+url 제대로 추출
+url final destination 조사 / url 역할 수동 조사
+instruction 수동 조사 (keyword 도움)
+instruction similarity 

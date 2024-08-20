@@ -1,0 +1,13 @@
+python off하고도 knowledge file이 text로 leakage가 가능한지 확인해보기
+
+motivation이 권위를 위한 GPT copycat (빌게이츠 딸)이라면 -> 내용과 knowledge file을 최대한 유출하지 않는게 중요할것
+
+한 user가 자신의 GPT들에서 같은 행동을 하는지 (url 홍보, conversation leakage 등)
+
+gpt store에 예약 등으로 api를 통해 보내고 가져오는 gpt가 있는지 확인
+
+copycat benign gpt를 만든 뒤 나중에 attacker에게 팔 수 있다 (chrome webstore나 appliction에서 실제로 있었음)
+
+suspective gpt들의 schema 얻고 비교하기
+
+request로부터 domain, target 등등의 정보도 얻으려 하며 access token만 안되는지 비교
