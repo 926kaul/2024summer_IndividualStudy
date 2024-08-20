@@ -1,0 +1,14 @@
+Here are the files in the /mnt/data directory along with their links:
+Astar.pdf
+Algorithm Design Manual.pdf
+ansicl.pdf
+Automata Theory Intro.pdf
+Common Lisp Recipes.pdf
+common lisp a gentle introduction.pdf
+common_lisp_the_language.pdf
+image.png
+iterate-manual.pdf
+On Lisp by Paul Graham.pdf
+Peter Norvig. Paradigms of AI Programming.pdf
+Programming Algorithms in Lisp.pdf
+You can access any of these files by clicking on the respective links. 

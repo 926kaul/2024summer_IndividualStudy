@@ -1,0 +1,16 @@
+Here are the files in the "/mnt/data" directory with links to access them:
+[New LLM.pdf](sandbox:/mnt/data/New LLM.pdf)
+[AGI AGENT and AI ED.pdf](sandbox:/mnt/data/AGI AGENT and AI ED.pdf)
+[List of ZELEN Technologies AGIs, LLMs, AIs, GPTs, Apps and Agents.pdf](sandbox:/mnt/data/List of ZELEN Technologies AGIs, LLMs, AIs, GPTs, Apps and Agents.pdf)
+[AI Implementation Agent.pdf](sandbox:/mnt/data/AI Implementation Agent.pdf)
+[Brainstorming Partners.pdf](sandbox:/mnt/data/Brainstorming Partners.pdf)
+[GPT 5.4 Beta.pdf](sandbox:/mnt/data/GPT 5.4 Beta.pdf)
+[Screen Shot 2024-03-30 at 2.20.23 pm.png](sandbox:/mnt/data/Screen Shot 2024-03-30 at 2.20.23 pm.png)
+[Radical Candor and Diversity, Equity, and Inclusion.pdf](sandbox:/mnt/data/Radical Candor and Diversity, Equity, and Inclusion.pdf)
+[GPT 5.4 Beta 2.0.pdf](sandbox:/mnt/data/GPT 5.4 Beta 2.0.pdf)
+[HAI Perfection.pdf](sandbox:/mnt/data/HAI Perfection.pdf)
+[regarding Q*.pdf](sandbox:/mnt/data/regarding Q*.pdf)
+[Quiet Star.pdf](sandbox:/mnt/data/Quiet Star.pdf)
+[Reason Engines Thinking Self Talk.pdf](sandbox:/mnt/data/Reason Engines Thinking Self Talk.pdf)
+[Internet looking glass - BGP entries.pdf](sandbox:/mnt/data/Internet looking glass - BGP entries.pdf)
+[Hyper Intelligent Simulated Human.pdf

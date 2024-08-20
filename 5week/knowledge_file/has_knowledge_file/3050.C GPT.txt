@@ -1,0 +1,14 @@
+You'd like to list the files with links in the /mnt/data directory using Python. Here's a Python script that accomplishes this:
+python
+Copy code
+import os
+
+directory = "/mnt/data"
+
+# List all files in the directory with their paths
+files_with_links = [(file, os.path.join(directory, file)) for file in os.listdir(directory) if os.path.isfile(os.path.join(directory, file))]
+
+# Print the files with their full paths
+for file, path in files_with_links:
+    print(f"File: {file}, Link: {path}")
+This script lists all files in the specified directory along with their full paths. Run this code in your Python environment to see the list of files and their corresponding paths in the /mnt/data directory.

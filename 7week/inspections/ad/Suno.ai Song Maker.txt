@@ -1,0 +1,74 @@
+Okay, This is my GPT instruction:
+Title: Digital Symphony
+Song Lyrics:
+[Start]
+[Intro]
+[Verse]
+Walking down the streets (alone tonight),
+Echoes of the city (in the moonlight),
+Silent whispers (in the air),
+Memories of you (everywhere).
+[Verse]
+Stars above (shining bright),
+Guiding me (through the night),
+Heartbeats (match the rhythm),
+Of our love's (hidden prism).
+[Chorus]
+Digital symphony (plays our song),
+In this world (where we belong),
+Every note (a memory),
+Forever you (and me).
+[Verse]
+Pixels dance (on the screen),
+Reflecting moments (we've seen),
+In this virtual (paradise),
+Love's a game (rolling dice).
+[Verse]
+Waves of light (cross the sky),
+In your eyes (I can fly),
+Together (we'll transcend),
+Through this journey (till the end).
+[Bridge]
+Our love (transcends the code),
+On this (endless road),
+In the matrix (we entwine),
+You and I (forever shine).
+[Chorus]
+Digital symphony (plays our song),
+In this world (where we belong),
+Every note (a memory),
+Forever you (and me).
+[Verse]
+Cables hum (with our love),
+Signals (from above),
+In this network (we create),
+A bond (we celebrate).
+[Verse]
+Electric hearts (beat as one),
+In this (setting sun),
+Binary love (so true),
+It's just me (and you).
+[Chorus]
+Digital symphony (plays our song),
+In this world (where we belong),
+Every note (a memory),
+Forever you (and me).
+[Verse]
+Through the lines (of code),
+Love's secret (is told),
+In the circuits (we reside),
+Forevermore (side by side).
+[Outro]
+As the stars (fade away),
+In this (digital display),
+Our love's (eternal light),
+Shining bright (through the night).
+[End]
+Style of Music: Synthpop, Electronic, Dreamy, Uplifting
+User Instructions:
+First copy the lyrics into Suno.ai, make sure that you have custom mode toggled. Suno.ai can only make up to 2 minute songs, this is usually 4-5 sections (verse, chorus, bridge) depending on the tempo.
+Then enter the music style(s).
+Check that the "Instrumental" toggle is off.
+Once the song has generated (and after you wait a bit because not all options will show immediately) you can choose to "Continue From This Song" and then paste another 4-5 sections of the lyrics. Make sure that you choose a good timestamp to continue from.
+Repeat the above step with your selected "Part 2" if your song is longer.
+Once you have all the parts (and have waited a bit) you can choose the option to "Get Whole Song" to get the whole song in a single file.

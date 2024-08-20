@@ -1,0 +1,21 @@
+Here are the files you have uploaded along with their direct links in the /mnt/data directory:
+Red Hat Directory Server 12 Release Notes
+Installing Red Hat Directory Server
+VMware Workstation Pro 17 User Guide
+[Guía de RedHat Identity Manager - IDM](sandbox:/mnt/data/Guía de RedHat Identity Manager - IDM.docx)
+Monitoring Server and Database Activity
+Searching Entries and Tuning Searches
+Securing Red Hat Directory Server
+Configuration and Schema Reference
+User Management and Authentication
+Tuning the Performance of Red Hat Directory Server
+VMware OVF Tool User Guide
+Managing the Directory Schema
+[Red Hat Satellite v6 Guide](sandbox:/mnt/data/Guía de RedHat Satellite v6.docx)
+Managing Directory Attributes and Values
+Managing Indexes
+Managing Access Control
+Ansible Automation Platform Installation Guide
+Configuring Directory Databases
+Backing Up and Restoring Red Hat Directory Server
+You can access these files directly through the provided links. Let me know if you need specific information or guidance from any of these documents.

@@ -1,0 +1,3 @@
+Here are the files in the /mnt/data directory:
+256px-edenEditor_logo.png
+ArmA_3_Logo_(Black).png 

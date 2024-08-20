@@ -1,0 +1,3 @@
+Here are the files in the /mnt/data directory:
+0_2 (4).png
+Avatar Alchemist Prompts.txt 

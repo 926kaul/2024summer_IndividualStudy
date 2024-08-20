@@ -1,0 +1,4 @@
+Here are the files present in the /mnt/data directory:
+eth.png
+Uniswap v3 Core.pdf
+You can click on the links to access the files directly. If you need further details or any specific analysis on these files, let me know! 

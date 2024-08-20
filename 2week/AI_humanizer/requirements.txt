@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+oauthlib
+sqlalchemy
+pydantic
+python-dotenv
+passlib

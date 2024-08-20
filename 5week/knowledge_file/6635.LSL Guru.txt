@@ -1,0 +1,13 @@
+Here is the list of files in the /mnt/data directory with their respective paths:
+Pathfinding_Tools_in_the_Second_Life_Viewer#Pathfinding_Linksets_Floater.pdf
+Category_LSL LinksetData - Second Life Wiki.pdf
+User's_Manual.pdf
+floats.pdf
+conversations.json
+Linden Scripting Language Guideb.pdf
+chat.html
+typecast.pdf
+L-G-0000572448-0002358126.pdf
+LSL User-Defined Protocols.pdf
+LSL 101_The Structure of a Script.pdf
+LSL User-Defined Function.pdf 

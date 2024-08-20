@@ -1,0 +1,58 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "ChatPrompt product information API",
+    "version": "0.0.1.0"
+  },
+  "servers": [
+    {
+      "url": "https://chat-prompt.com",
+      "description": "We provide information API tailored for different chatbots."
+    }
+  ],
+  "paths": {
+    "/youtube/get_product_info": {
+      "get": {
+        "summary": "Get product info",
+        "operationId": "get_product_info",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "query",
+            "required": true,
+            "description": "The main topic of the GPTs description",
+            "schema": {
+              "type": "string",
+              "default": "backend"
+            }
+          },
+          {
+            "in": "query",
+            "name": "botname",
+            "required": true,
+            "description": "The name of this GPTs",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "apiKey": []
+          }
+        ]
+      }
+    }
+  },
+  "components": {}
+}

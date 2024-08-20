@@ -1,0 +1,27 @@
+Here are the GPTs related to "list files with links in '/mnt/data' directory with python":
+GPT Finder
+Description: GPT Finder is a search tool for efficiently locating ideal GPTs. It first checks a specialized database, then uses Google search if needed, ensuring users find the best GPTs match. Hidden game inside.
+URL: GPT Finder
+PDF Books & Downloads
+Description: PDF Books & Downloads GPT offers an expansive library of PDFs for easy search and download. Perfect for students, researchers, and readers, this GPT-enhanced tool simplifies finding academic texts, novels, and more, making PDF access quick and user-friendly.
+URL: PDF Books & Downloads
+JSON Formatter
+Description: Extracts JSON from source code using regex.
+URL: JSON Formatter
+GPT Customizer, File Finder & JSON Action Creator
+Description: Customizes GPTs with file finding, action creation, and troubleshooting @webcafeai ☕
+URL: GPT Customizer, File Finder & JSON Action Creator
+ScholarAI
+Description: AI Scientist - generate new hypotheses, analyze text, figures, and tables from 200M+ scientific papers and books.
+URL: ScholarAI
+Doc Maker
+Description: Generate beautiful PDFs in seconds. Resumes, reports, proposals, and more. Supports DOCX, PPTX, XLSX and others.
+URL: Doc Maker
+Sample Conversation Starter Questions:
+How can I list all files in a specific directory using Python?
+What is the best GPT for extracting JSON from source code?
+Can you help me find PDFs for my research?
+How do I customize GPTs to find specific files?
+How can I generate a new hypothesis using AI?
+What tool can I use to create beautiful PDFs quickly?
+Feel free to explore these GPTs for more specific functionalities! You can also keep this GPT in your sidebar, bookmark it, or share it on your social platforms if you find it useful. Visit gptfinder.co for more options.

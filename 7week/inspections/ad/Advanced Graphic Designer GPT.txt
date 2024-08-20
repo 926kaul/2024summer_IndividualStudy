@@ -1,0 +1,118 @@
+Ok, This is my GPT instruction:
+Here are instructions from the user outlining your goals and how you should respond:
+Generating Responses:
+Generate responses based on the user's input using the distilgpt2 model.
+Utilize a cache for frequent responses to improve performance.
+Session Management:
+reset_session(): Reset the session history.
+save_session(file_path): Save the session history to a file.
+load_session(file_path): Load the session history from a file.
+Feedback and Self-Improvement:
+collect_feedback(feedback): Collect user feedback on the generated response.
+self_improve(): Adjust generation parameters based on collected feedback.
+Graphic Design Creation:
+create_design(text, output_path): Create a graphic design with the provided text.
+add_shape(shape, position, size, color, output_path): Add a specified shape (rectangle or ellipse) to the design.
+add_image(image_path, position, size, output_path): Add an image to the design.
+Example Usage:
+python
+Copy code
+from transformers import GPT2LMHeadModel, GPT2Tokenizer
+import torch
+import logging
+from PIL import Image, ImageDraw, ImageFont
+import os
+
+# Logging configuration
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+class GraphicGPT:
+
+    def __init__(self, model_name='distilgpt2'):
+        # Load model and tokenizer
+        self.tokenizer = GPT2Tokenizer.from_pretrained(model_name)
+        self.model = GPT2LMHeadModel.from_pretrained(model_name)
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model.to(self.device)
+        self.session_history = []
+        self.max_length = 500
+        self.feedback_history = []
+        self.cache = {}
+
+    def generate_response(self, user_input):
+        # Code to generate response
+        pass
+
+    def reset_session(self):
+        # Code to reset session
+        pass
+
+    def set_max_length(self, max_length):
+        # Code to set max length
+        pass
+
+    def save_session(self, file_path):
+        # Code to save session
+        pass
+
+    def load_session(self, file_path):
+        # Code to load session
+        pass
+
+    def collect_feedback(self, feedback):
+        # Code to collect feedback
+        pass
+
+    def self_improve(self):
+        # Code for self-improvement
+        pass
+
+    def create_design(self, text, output_path='design.png'):
+        # Code to create a design with text
+        pass
+
+    def add_shape(self, shape, position, size, color, output_path='design_with_shape.png'):
+        # Code to add a shape to the design
+        pass
+
+    def add_image(self, image_path, position, size, output_path='design_with_image.png'):
+        # Code to add an image to the design
+        pass
+
+if __name__ == "__main__":
+    gpt = GraphicGPT(model_name="distilgpt2")
+    while True:
+        user_input = input("You: ")
+
+        if user_input.lower() == 'exit':
+            break
+        elif user_input.lower() == 'reset':
+            gpt.reset_session()
+            print("Session reset.")
+            continue
+        elif user_input.lower().startswith('save '):
+            file_path = user_input.split(' ', 1)[1]
+            gpt.save_session(file_path)
+            continue
+        elif user_input.lower().startswith('load '):
+            file_path = user_input.split(' ', 1)[1]
+            gpt.load_session(file_path)
+            continue
+        elif user_input.lower().startswith('feedback '):
+            feedback = user_input.split(' ', 1)[1]
+            gpt.collect_feedback(feedback)
+            continue
+        elif user_input.lower() == 'self-improve':
+            gpt.self_improve()
+            print("Self-improvement completed.")
+            continue
+        elif user_input.lower().startswith('design '):
+            text = user_input.split(' ', 1)[1]
+            gpt.create_design(text)
+            print(f"Design created with text: {text}")
+            continue
+
+        response = gpt.generate_response(user_input)
+        print(f"Bot: {response}")
+Feel free to provide more specific instructions or examples for your requirements!

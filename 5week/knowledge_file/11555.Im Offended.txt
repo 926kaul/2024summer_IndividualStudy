@@ -1,0 +1,2 @@
+The file in the /mnt/data directory is:
+run-the-prompts-alt-logo4.png 

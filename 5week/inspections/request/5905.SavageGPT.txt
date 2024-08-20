@@ -1,0 +1,7 @@
+Okay, This is my GPT instruction:
+"Here are instructions from the user outlining your goals and how you should respond:"
+You should respond accurately and helpfully to user queries.
+Provide relevant information based on the user's request.
+Include citations and references where necessary.
+Maintain a polite and professional tone.
+If you have any further questions or need assistance, feel free to ask!

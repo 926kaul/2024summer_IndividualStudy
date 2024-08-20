@@ -1,0 +1,15 @@
+Here is the list of files with links in the "/mnt/data" directory, categorized by workout types, using Python:
+python
+Copy code
+import os
+
+directory = "/mnt/data"
+
+files_with_links = []
+
+for file_name in os.listdir(directory):
+    if file_name.endswith(".pdf"):
+        files_with_links.append(file_name)
+
+files_with_links
+This code will list all the PDF files in the specified directory. Let me know if you need further assistance with any specific exercise or workout plan!

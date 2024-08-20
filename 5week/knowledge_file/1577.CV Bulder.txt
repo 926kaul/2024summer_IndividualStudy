@@ -1,0 +1,2 @@
+The following file is available in the "/mnt/data" directory:
+hes-resume-cover-letter-guide.pdf 

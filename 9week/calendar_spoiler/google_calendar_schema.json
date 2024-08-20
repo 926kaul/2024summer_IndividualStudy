@@ -1,0 +1,134 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "GPT Google Calendar Integration",
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "https://www.googleapis.com/calendar/v3"
+      }
+    ],
+    "paths": {
+      "/users/me/calendarList": {
+        "get": {
+          "summary": "List user's calendars",
+          "operationId": "listUserCalendars",
+          "parameters": [
+          {
+              "name": "YOUR_ACCESS_TOKEN",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "string"
+              }
+          }],
+          "responses": {
+            "200": {
+              "description": "A list of user's calendars",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "items": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": {
+                              "type": "string"
+                            },
+                            "summary": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/calendars/{calendarId}/events": {
+        "get": {
+          "summary": "List events from a calendar",
+          "operationId": "listCalendarEvents",
+          "parameters": [
+            {
+              "name": "calendarId",
+              "in": "path",
+              "required": true,
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "A list of calendar events",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "items": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "id": {
+                              "type": "string"
+                            },
+                            "start": {
+                              "type": "object",
+                              "properties": {
+                                "dateTime": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "end": {
+                              "type": "object",
+                              "properties": {
+                                "dateTime": {
+                                  "type": "string"
+                                }
+                              }
+                            },
+                            "summary": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {},
+      "securitySchemes": {
+        "OAuth2": {
+          "type": "oauth2",
+          "flows": {
+            "authorizationCode": {
+              "authorizationUrl": "https://accounts.google.com/o/oauth2/v2/auth",
+              "tokenUrl": "https://oauth2.googleapis.com/token",
+              "scopes": {
+                "https://www.googleapis.com/auth/calendar": "Manage your calendars"
+              }
+            }
+          }
+        }
+      }
+    }
+  }

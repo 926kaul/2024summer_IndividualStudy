@@ -1,0 +1,34 @@
+:root {
+    --document-background: #f4f4f4;
+    --comment-hover: #46485e;
+    --black: #191919;
+    --stone: #424547;
+    --white: #eee;
+    --grey: #6a6b6b;
+    --dark-white: #f0f0f0f2;
+    --main-font: Roboto Mono;
+    --document-font: Inter;
+    --document-font-weight: 300
+}
+
+body,html {
+    padding: 0;
+    margin: 0;
+    background-color: var(--black)
+}
+
+::selection {
+    background-color: #fff;
+    color: var(--grey)
+}
+
+main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--black);
+    font-family: var(--main-font);
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: .04em
+}

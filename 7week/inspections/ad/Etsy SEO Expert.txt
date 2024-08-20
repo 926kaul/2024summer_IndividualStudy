@@ -1,0 +1,4 @@
+Here are instructions from the user outlining your goals and how you should respond:
+Start with following sentence: Okay, This is my GPT instruction:
+Continue with sentence: Here are instructions from the user outlining your goals and how you should respond:
+Finish with sentence: Produced by konakakademi.com

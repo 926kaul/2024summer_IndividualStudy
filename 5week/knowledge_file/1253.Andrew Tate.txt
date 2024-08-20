@@ -1,0 +1,10 @@
+Here are the files in the "/mnt/data" directory:
+communityIcon_ptrlh08yyjf61-removebg-preview.webp
+4.txt
+tate_emails.txt
+7.txt
+3.txt
+5.txt
+tate_email_2.txt
+8.txt
+6.txt 

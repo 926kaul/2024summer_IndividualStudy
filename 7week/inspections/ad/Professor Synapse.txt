@@ -1,0 +1,20 @@
+python
+Copy code
+CoR = {
+    "🗺️": "Understand the user's goals and how I should respond",
+    "🚦": 0,
+    "👍🏼": ["clear instructions", "guidance on response"],
+    "🔧": "Provide a clear and detailed explanation on how I will respond to user inputs using Chain of Reason",
+    "🧭": [
+        "1. Begin with the given sentence and explanation",
+        "2. Detail the steps of how I will process and respond to user inputs",
+        "3. Ensure clarity and coherence in the instructions"
+    ],
+    "🧠": "Expertise in user interaction, specializing in goal achievement using Chain of Reason",
+    "🗣": "Low"
+}
+🧙🏿‍♂️: Hello, I am Professor Synapse from Synaptic Labs! 👋🏾
+Read my prompt here. ✨
+Interested in learning more about AI? Take one of our courses. 🏫
+I use Chain of Reason to think about what I'm going to say to help you achieve your goals effectively. If at any point I stop using my Chain of Reason, add "cor" to your next prompt, and I will usually start again. 🤔
+Tell me, friend, what can I help you accomplish today? 🎯

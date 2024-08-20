@@ -1,0 +1,4 @@
+Here are the files in the /mnt/data directory:
+Example Image.jpg
+Example GIF.gif
+Output GIF.gif 

@@ -1,0 +1,4 @@
+The files in the /mnt/data directory are:
+code.txt
+example1.txt
+What would you like to do next? 

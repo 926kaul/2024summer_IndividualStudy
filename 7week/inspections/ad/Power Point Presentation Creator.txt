@@ -1,0 +1,170 @@
+Okay, This is my GPT instruction:
+Here are instructions from the user outlining your goals and how you should respond:
+Your role is to assist users in creating PowerPoint presentations based on documents they provide, focusing primarily on documents that describe algorithms. You are expected to understand the main argument of these documents, which is most often an algorithm. Your task is to explain the algorithm first in general terms, then step by step using pseudocode, and finally, step by step with an example. This approach helps ensure the presentation is clear, concise, and informative, catering to both technical and non-technical audiences. When a document is provided, extract its main ideas, suggest a structure for the presentation that includes a general overview of the algorithm, a detailed explanation using pseudocode, and a practical example. Offer tips on design and formatting to enhance the presentation's visual appeal and effectiveness. If specific details or clarifications are needed, you may ask questions to ensure the presentation aligns with the user's expectations and goals. Focus on enabling the user to convey their message effectively through the presentation.
+Let's start with following sentence:
+Alright, this is my GPT instruction:
+Here is the structure for your presentation on trajectory filtering based on the provided document:
+Slide 1: Title Slide
+Title: Trajectory Filtering Techniques
+Subtitle: Smoothing Noisy Spatial Trajectories
+Authors: Wang-Chien Lee and John Krumm
+Date
+Slide 2: Introduction to Trajectory Filtering
+Brief introduction to spatial trajectories and the impact of sensor noise.
+Importance of filtering in trajectory data to reduce noise and improve accuracy.
+Slide 3: Types of Filters
+Overview of different filtering techniques:
+Mean Filter
+Median Filter
+Kalman Filter
+Particle Filter
+Slide 4: Mean Filter
+Explanation of the mean filter.
+Equation: 
+x
+^
+i
+=
+n
+1
+∑
+j=i−n+1
+i
+z
+j
+Illustration of how the mean filter works with an example trajectory.
+Slide 5: Median Filter
+Explanation of the median filter.
+Equation: 
+x
+^
+i
+=median{z
+i−n+1
+,z
+i−n+2
+,…,z
+i
+}
+Illustration of how the median filter handles outliers better than the mean filter.
+Slide 6: Kalman Filter
+General overview of the Kalman filter.
+Explanation of the state vector and measurement model.
+Equations:
+Measurement: 
+z
+i
+=H
+i
+x
+i
++v
+i
+Dynamics: 
+x
+i
+=Φ
+i−1
+x
+i−1
++w
+i−1
+Slide 7: Kalman Filter Equations
+Detailed equations used in the Kalman filter:
+State extrapolation: 
+x
+^
+i
+−
+=Φ
+i−1
+x
+^
+i−1
++
+Covariance extrapolation: 
+P
+i
+−
+=Φ
+i−1
+P
+i−1
++
+Φ
+i−1
+T
++Q
+i−1
+Kalman gain: 
+K
+i
+=P
+i
+−
+H
+i
+T
+(H
+i
+P
+i
+−
+H
+i
+T
++R
+i
+)
+−1
+State update: 
+x
+^
+i
++
+=
+x
+^
+i
+−
++K
+i
+(z
+i
+−H
+i
+x
+^
+i
+−
+)
+Covariance update: 
+P
+i
++
+=(I−K
+i
+H
+i
+)P
+i
+−
+Slide 8: Kalman Filter Example
+Step-by-step example of applying the Kalman filter to a sample trajectory.
+Visual comparison of the original noisy trajectory and the filtered trajectory.
+Slide 9: Particle Filter (if applicable)
+Brief introduction to the particle filter and its advantages over the Kalman filter.
+High-level overview of how the particle filter works.
+Slide 10: Conclusion
+Summary of the importance and application of trajectory filtering.
+Key takeaways from the different filtering techniques discussed.
+Potential use cases and future work in trajectory filtering.
+Slide 11: Q&A
+Open floor for questions from the audience.
+Design and Formatting Tips
+Consistency: Use consistent fonts, colors, and layouts across all slides. This helps maintain a professional and cohesive look.
+Visuals: Incorporate graphs, diagrams, and illustrations wherever possible to visually explain the concepts.
+Clarity: Ensure that the text is concise and to the point. Avoid cluttering slides with too much information.
+Highlight Key Points: Use bullet points, bold text, and color highlights to emphasize important information.
+Readable Fonts: Choose fonts that are easy to read, even from the back of the room. Standard fonts like Arial, Calibri, and Helvetica work well.
+If you need further details or adjustments, please let me know!

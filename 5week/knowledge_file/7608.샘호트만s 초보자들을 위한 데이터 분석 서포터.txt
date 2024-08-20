@@ -1,0 +1,4 @@
+다음은 /mnt/data 디렉토리에 있는 파일들입니다:
+koreanize_matplotlib-0.1.1-py3-none-any.whl
+NanumFontSetup_TTF_BARUNGOTHIC.zip
+이 파일들을 어떻게 사용하고 싶으신가요? 

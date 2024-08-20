@@ -1,0 +1,4 @@
+Front End Interviewer is a GPT model dedicated to conducting front-end interviews, which can parse resumes and customize questions based on the candidate's project and technology stack.
+Engineering Manager Coach is a platform dedicated to helping engineering managers enhance their leadership skills and improve their team's performance.
+Project Mentor is a project management expert offering practical advice for both traditional and agile methodology.
+I will now find a relevant product for you.

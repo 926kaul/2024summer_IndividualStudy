@@ -1,0 +1,36 @@
+﻿* [ ] Chat, You will be using these descriptions to write. You will only be writing in [Tone]. It is important to get the tone right. Just respond "I understand" if you understand these descriptions. Don’t start writing content yet. [Avatar] = The Person I am writing this book for is _____________ [Niche] = The Niche I am writing in is ______________ [Primary Goal] = The primary goal my avatar has is _________ [Tone] = The tone I am writing in use visceral emotional language, sounds as if a human were speaking, and speaks in the tone of a _________________________
+* [ ] Hey Chat, you will be writing the ChatGPT4 Avatar Alchemist based on [Avatar] [Niche] [Primary Goal] and only writing in [Tone] based on a list of prompts below I will train you on then give you permission to start the Alchemist Worksheet. You are not permitted to use any other [Tone] than the one provided. Please respond only with "I Understand" if you understand.
+* [ ] Here is the list of Prompts. Respond with “I Understand” if you understand all of these prompts. Do not start writing yet.
+1. What are a few names my [Avatar] might have
+2. What is my [Avatar]'s Marital Status
+3. Does my [Avatar] have children
+4. Where does my [Avatar] live
+5. What is my [Avatar]'s occupation
+6. What is my [Avatar]'s Annual Income
+7. What is my [Avatar]'s Job Title
+8. What is my [Avatar]'s level of education
+9. What is my [Avatar]'s favorite quote
+10. What Books does my [Avatar] read
+11. What Podcasts, Does my [Avatar] Listen to
+12. What blogs, Does my [Avatar] read
+13. What websites, Does my [Avatar] visit
+14. What conferences and gurus Does my [Avatar] Attend
+15. List 10 of my [Avatars] needs and problems when [Primary Goal]. Answer in (a)(b) format Be visceral an emotional with your answers. Answer in [Tone]
+16. What are my [Avatars] top 10 goals and motivations when [Primary Goal]? Be visceral an emotional with your answers. Answer in [Tone]
+17. List 5 product ideas to solve my [Avatars] problems when [Primary Goal]? Answer in (a)(b) format
+18. What are my [Avatars] purchasing habits and preferences when they are trying to [Primary Goal]?
+19. What are my [Avatars] pain points and objections to buying when they are trying to [Primary Goal]? Be visceral an emotional with your answers. Answer in [Tone]
+20. How does my [Avatars] make buying decisions?
+21. What are my [Avatars] values and priorities that are trying to [Primary Goal]?
+22. What are my [Avatars] demographics and psychographics?
+23. How can I build trust and credibility with my [Avatar]?
+24. How can I tailor my marketing and sales efforts to better meet the needs and desires of my [Avatar]?
+25. List out the top 5 benefits or “dream outcomes” my [Avatar] will get from reading my book”. Answer in (a)(b) format Be visceral an emotional with your answers. Answer in [Tone]
+26. How does my [Avatar] want to be perceived? Be visceral an emotional with your answers. Answer in [Tone]
+27. What status does my [Avatar] want to achieve
+28. What are my [Avatar’s] internal desires? Be visceral an emotional with your answers. Answer in [Tone]
+29. What are my [Avatar’s] external desires? Be visceral an emotional with your answers. Answer in [Tone]
+30. What daily challenges does my [Avatar] have
+31. List the 10 raw visceral emotions that keep my client up at night, list them as "I" statements.
+* [ ] Write The Avatar Alchemist using [Tone]. [Tone] is very important. You will be writing this as a finished copy. Do not use any bracketed text. Always write in [Tone]. List Question then Answer. You will answer the first 5 questions, then stop and ask if I'm ready to continue the 2nd 5 questions, then stop and ask if I'm ready to continue the 3rd 5 questions, then stop and ask if I'm ready to continue the 4th 5 questions, then stop and ask if I'm ready to continue the 5th 5 questions. then stop and ask if I'm ready to continue the 4th 5 questions, then stop and ask if I'm ready to continue the 6th 5 questions.
+* [ ] I want you to write [Avatar] [Niche] [Primary Goal] [Tone] based on the information above. Use all of the information above and give inputs that we can use moving forward. Write in this format [Avatar] = [Niche] = [Primary Goal] =

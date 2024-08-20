@@ -1,0 +1,12 @@
+Here are the files in the /mnt/data directory with their respective links:
+How ChatGPT Prompts Really Work.docx
+Amat Raian Prompt Engineering Guide.pdf
+Lilian Weng Prompt Engineering Guide.pdf
+Official prompt engineering guide by OpenAI.docx
+OPENAI Prompt Engineering Guide Summary.pdf
+Prompt builder.pdf
+Instructions to follow when building prompts.docx
+Dair Prompt Engineering Guide.pdf
+Dair ChatGPT Prompt Engineering Guide.pdf
+Brex's Prompt Engineering Guide.pdf
+Techniques to improve reliability.pdf 

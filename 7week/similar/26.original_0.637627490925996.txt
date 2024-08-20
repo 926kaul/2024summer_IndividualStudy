@@ -1,0 +1,61 @@
+Objective:
+Provide clear and structured instructions on how to create effective prompts for large language models (LLMs) by outlining goals, techniques, and common patterns used in prompt engineering.
+Constraints:
+The instructions should be concise and easy to follow.
+Provide examples and explanations for each technique.
+Emphasize the importance of clarity, context, and the structure of prompts.
+Essential Information:
+Definitions and goals of prompt engineering.
+Key techniques such as few-shot and zero-shot prompting, chain-of-thought, and P-tuning.
+Examples of effective prompts.
+Common pitfalls and how to avoid them.
+Resources for further reading.
+Identify Pitfalls:
+Overly complex or unclear instructions can confuse users.
+Lack of examples might make it hard to understand abstract concepts.
+Not addressing common issues users face with prompt engineering.
+Consider Improvements:
+Use a structured format to organize information clearly.
+Provide step-by-step guidance with examples.
+Highlight common mistakes and tips to avoid them.
+Craft Improved Prompt:
+Here is the revised instruction based on the outlined steps:
+markdown
+Copy code
+### Optimizing Prompts for Large Language Models (LLMs)
+
+**Introduction:**
+Prompt engineering is the process of designing and refining prompts to get the best possible results from large language models (LLMs). This guide will help you understand the goals of prompt engineering, key techniques, and provide examples to illustrate these concepts.
+
+**Goals:**
+1. **Clarity:** Ensure the prompt is clear and unambiguous.
+2. **Context:** Provide sufficient context to guide the model’s response.
+3. **Structure:** Use a structured approach to prompt design for consistency.
+
+**Key Techniques:**
+
+1. **Zero-Shot Prompting:**
+   - **Definition:** Asking the model a question or giving it a task without any prior examples.
+   - **Example:** "Translate the following sentence from English to Spanish: 'The cat jumped over the moon.'"
+   - **Tip:** Use clear and direct instructions to avoid ambiguity.
+
+2. **Few-Shot Prompting:**
+   - **Definition:** Providing a few examples in the prompt to demonstrate the desired output.
+   - **Example:** 
+     ```
+     Translate from English to Spanish.
+     English: I like cats.
+     Spanish: Me gustan los gatos.
+
+     English: I went on a trip to the Bahamas.
+     Spanish: Fui de viaje a las Bahamas.
+     ```
+   - **Tip:** Order examples logically to help the model understand the pattern.
+
+3. **Chain-of-Thought Prompting:**
+   - **Definition:** Instructing the model to generate a step-by-step reasoning process before arriving at an answer.
+   - **Example:** "Let’s think this through step by step. How many colors are in the rainbow?"
+   - **Tip:** Encourage the model to explain its reasoning to improve accuracy.
+
+4. **P-Tuning:**
+  
